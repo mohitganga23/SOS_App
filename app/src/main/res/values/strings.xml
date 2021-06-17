@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">SOSApp</string>
+    <string name="delete_btn">Delete btn</string>
+    <string name="login">LOGIN</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="or">OR</string>
+    <string name="sign_in_with_google">Sign In with Google</string>
+    <string name="don_t_have_an_account_sign_up_here">Don\'t have an Account ? Sign Up Here</string>
+    <string name="signal_sos">Signal SOS</string>
+    <string name="name">NAME</string>
+    <string name="placeholder_text">Placeholder Text</string>
+    <string name="email">EMAIL</string>
+    <string name="contact_number">CONTACT NUMBER</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="delete_account">Delete Account</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_contact_number">Enter Contact Number</string>
+    <string name="continue_btn">Continue</string>
+    <string name="add_up_to_5_contacts">Add up to 5 contacts</string>
+    <string name="add_contacts_to_your_network">ADD CONTACTS TO YOUR NETWORK</string>
+    <string name="number">Number</string>
+    <string name="profile">Profile</string>
+    <string name="your_network">Your Network</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="sign_up_with_google">Sign Up with Google</string>
+</resources>

@@ -21,7 +21,10 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
 
+import com.example.sosapp.HomeScreen;
 import com.example.sosapp.Model.Contacts;
+import com.example.sosapp.ProfileActivity;
+import com.example.sosapp.SecurityNetworkActivity;
 import com.google.android.gms.auth.api.signin.GoogleSignIn;
 import com.google.android.gms.auth.api.signin.GoogleSignInOptions;
 import com.google.android.gms.location.FusedLocationProviderClient;
@@ -263,9 +266,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onStart() {
         super.onStart();
         getCurrentLocation();
-
         contactNumbers = new ArrayList<>();
         contactNumbers = getContactNumbers();
-
     }
 }
